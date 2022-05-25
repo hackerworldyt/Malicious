@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/gem-lolcat-blue.svg)
 
 
-![alt text](https://github.com/Hider5/Malicious/blob/master/image/ss.jpg)
+![Alt text](https://github.com/Hider5/Malicious/blob/master/image/ss.jpg)
 
 ### Installation Termux
 ```
